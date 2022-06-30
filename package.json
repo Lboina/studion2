@@ -1,0 +1,28 @@
+{
+  "name": "studion2",
+  "version": "0.0.1",
+  "description": "\u0016Homepage for studion Events provider and services",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "npx live-server src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lboina/studion2.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Larissa Boina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lboina/studion2/issues"
+  },
+  "homepage": "https://github.com/Lboina/studion2#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
